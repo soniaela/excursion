@@ -18,6 +18,10 @@ body {
     text-decoration: underline;
 }
 
+.logo {
+    margin-top: 20px;
+}
+
 h2 {
     
     font-weight: 300;
@@ -34,4 +38,5 @@ h3 {
 footer {
     text-align: right;
     color: gray;
+    font-size: 25px;
 }
