@@ -10,3 +10,8 @@ body {
     background-color: black;
     text-align: center;
 }
+
+.links {
+    color: aquamarine;
+    font-size: 16px;
+}
